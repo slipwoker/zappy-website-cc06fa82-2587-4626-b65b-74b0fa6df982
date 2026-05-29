@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://example.com
+https://mezuzot-epoxy-yair.zappy5.app
 Yair With Epoxy is a handcrafted Judaica brand specializing in olive wood mezuzot with stunning blue epoxy resin inlays. The brand combines rustic, earthy Israe
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://mezuzot-epoxy-yair.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://mezuzot-epoxy-yair.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://mezuzot-epoxy-yair.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -33,8 +33,8 @@ Information about WCAG compliance and accessibility features.
 - Address: 1קטיף , ף, הושעיה, 1791500, ישראל
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://mezuzot-epoxy-yair.zappy5.app
+- Endpoint: https://mezuzot-epoxy-yair.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -63,6 +63,6 @@ Handcrafted Judaica & Wood Art
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://mezuzot-epoxy-yair.zappy5.app/sitemap.xml
+- Robots: https://mezuzot-epoxy-yair.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://mezuzot-epoxy-yair.zappy5.app/llms-full.txt

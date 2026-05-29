@@ -2,13 +2,13 @@
 
 Yair With Epoxy is a handcrafted Judaica brand specializing in olive wood mezuzot with stunning blue epoxy resin inlays. The brand combines rustic, earthy Israeli craftsmanship with the vibrant beauty of flowing epoxy art, creating unique religious items that are also decorative pieces. Three signature models are offered — the Land of Israel Mezuzah, the Finger Mezuzah with round finish, and the Finger Mezuzah with straight finish — each reflecting a deep connection to Israeli heritage and artisan woodworking.
 
-Source: https://example.com
+Source: https://mezuzot-epoxy-yair.zappy5.app
 
 ---
 
 ## מזוזת ארץ ישראל — מזוזות אפוקסי - יאיר
 
-URL: https://example.com
+URL: https://mezuzot-epoxy-yair.zappy5.app
 Description: Yair With Epoxy is a handcrafted Judaica brand specializing in olive wood mezuzot with stunning blue epoxy resin inlays. The brand combines rustic, earthy Israe
 
 מזוזת ארץ ישראל — מזוזות אפוקסי - יאיר
@@ -691,7 +691,7 @@ Description: Yair With Epoxy is a handcrafted Judaica brand specializing in oliv
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://mezuzot-epoxy-yair.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -969,7 +969,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://mezuzot-epoxy-yair.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1256,7 +1256,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://mezuzot-epoxy-yair.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
