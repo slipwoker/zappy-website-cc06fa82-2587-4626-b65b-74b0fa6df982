@@ -1,0 +1,66 @@
+# מזוזות אפוקסי - יאיר — Generative Engine Optimization Map
+
+> Yair With Epoxy is a handcrafted Judaica brand specializing in olive wood mezuzot with stunning blue epoxy resin inlays. The brand combines rustic, earthy Israeli craftsmanship with the vibrant beauty of flowing epoxy art, creating unique religious items that are also decorative pieces. Three signature models are offered — the Land of Israel Mezuzah, the Finger Mezuzah with round finish, and the Finger Mezuzah with straight finish — each reflecting a deep connection to Israeli heritage and artisan woodworking.
+
+---
+
+## Pages
+
+### בית
+https://-cc06fa82.zappy5.app
+Yair With Epoxy is a handcrafted Judaica brand specializing in olive wood mezuzot with stunning blue epoxy resin inlays. The brand combines rustic, earthy Israe
+
+## Legal & Policy
+
+### Privacy Policy
+https://-cc06fa82.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-cc06fa82.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-cc06fa82.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-cc06fa82.zappy5.app
+- Endpoint: https://-cc06fa82.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מזוזות אפוקסי - יאיר
+Yair With Epoxy is a handcrafted Judaica brand specializing in olive wood mezuzot with stunning blue epoxy resin inlays. The brand combines rustic, earthy Israeli craftsmanship with the vibrant beauty of flowing epoxy art, creating unique religious items that are also decorative pieces. Three signature models are offered — the Land of Israel Mezuzah, the Finger Mezuzah with round finish, and the Finger Mezuzah with straight finish — each reflecting a deep connection to Israeli heritage and artisan woodworking.
+
+## Target Audience
+- משפחות דתיות
+- אספני אומנות יהודית
+- חובבי עיצוב הבית
+
+## Industry
+Handcrafted Judaica & Wood Art
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-cc06fa82.zappy5.app/sitemap.xml
+- Robots: https://-cc06fa82.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-cc06fa82.zappy5.app/llms-full.txt
