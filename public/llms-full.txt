@@ -631,9 +631,9 @@ Description: Yair With Epoxy is a handcrafted Judaica brand specializing in oliv
 
 - [business_email]
 
-- [business_phone]
+- 050-727-6668
 
-- [business_address]
+- 1קטיף , ף, הושעיה, 1791500, ישראל
 
 
 
@@ -851,9 +851,9 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 050-727-6668
 
-- כתובת: [business_address]
+- כתובת: 1קטיף , ף, הושעיה, 1791500, ישראל
 
 
 
@@ -909,9 +909,9 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - [business_email]
 
-- [business_phone]
+- 050-727-6668
 
-- [business_address]
+- 1קטיף , ף, הושעיה, 1791500, ישראל
 
 
 
@@ -1137,7 +1137,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 050-727-6668
 
 
 
@@ -1196,9 +1196,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - [business_email]
 
-- [business_phone]
+- 050-727-6668
 
-- [business_address]
+- 1קטיף , ף, הושעיה, 1791500, ישראל
 
 
 
@@ -1447,9 +1447,9 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - אימייל: [business_email]
 
-- טלפון: [business_phone]
+- טלפון: 050-727-6668
 
-- כתובת: [business_address]
+- כתובת: 1קטיף , ף, הושעיה, 1791500, ישראל
 
 
 
@@ -1502,9 +1502,9 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - [business_email]
 
-- [business_phone]
+- 050-727-6668
 
-- [business_address]
+- 1קטיף , ף, הושעיה, 1791500, ישראל
 
 
 

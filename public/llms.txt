@@ -28,7 +28,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Phone: 050-727-6668
+- Phone (tel): tel:0507276668
+- Address: 1קטיף , ף, הושעיה, 1791500, ישראל
 
 ### Contact form
 - URL: https://example.com
